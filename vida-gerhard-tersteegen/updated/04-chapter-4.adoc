@@ -2661,10 +2661,13 @@ Lo hacemos:
 4+++.+++ En la sencillez.
 
 [.numbered]
-5+++.+++ En la contemplación. . En la rendición.
+5+++.+++ En la contemplación.
 
 [.numbered]
-6+++.+++ Esencialmente.
+6+++.+++ En la rendición.
+
+[.numbered]
+7+++.+++ Esencialmente.
 
 ====
 
